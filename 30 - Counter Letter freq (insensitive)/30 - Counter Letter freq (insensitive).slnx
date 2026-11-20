@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="30 - Counter Letter freq (insensitive)/30 - Counter Letter freq (insensitive).vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="21 - Print Fibonacci Series/21 - Print Fibonacci Series.vcxproj" Id="0303f63f-87d2-4d9d-9891-56d616bfd143" />
+</Solution>

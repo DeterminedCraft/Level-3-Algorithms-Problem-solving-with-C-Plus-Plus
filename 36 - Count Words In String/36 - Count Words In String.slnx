@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="36 - Count Words In String/36 - Count Words In String.vcxproj" Id="320d0648-3e3c-4903-9d3b-23ad0c861a1f" />
+</Solution>
