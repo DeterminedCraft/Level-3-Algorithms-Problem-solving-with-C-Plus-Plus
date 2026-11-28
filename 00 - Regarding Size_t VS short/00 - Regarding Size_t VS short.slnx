@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="00 - Regarding Size_t VS short/00 - Regarding Size_t VS short.vcxproj" Id="d370739b-9015-4e91-84fa-27a741c8b04c" />
+</Solution>

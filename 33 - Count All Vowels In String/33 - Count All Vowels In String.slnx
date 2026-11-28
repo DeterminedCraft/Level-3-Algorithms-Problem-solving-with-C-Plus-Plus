@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="33 - Count All Vowels In String/33 - Count All Vowels In String.vcxproj" />
+</Solution>

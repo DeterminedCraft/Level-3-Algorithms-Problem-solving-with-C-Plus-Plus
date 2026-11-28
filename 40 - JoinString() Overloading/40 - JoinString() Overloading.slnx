@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="40 - JoinString() Overloading/40 - JoinString() Overloading.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="35 - Print Each Word In String/35 - Print Each Word In String.vcxproj" />
+</Solution>

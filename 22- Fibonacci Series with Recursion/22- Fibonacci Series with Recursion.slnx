@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="22- Fibonacci Series with Recursion/22- Fibonacci Series with Recursion.vcxproj" Id="2de26fb9-f097-4a91-8730-c0178a97bf33" />
+</Solution>
